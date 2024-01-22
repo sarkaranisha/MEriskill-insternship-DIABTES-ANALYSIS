@@ -1,5 +1,8 @@
 MERISKILL VIRTUAL INTERSNHIP DIABATES ANAALYSIS
 the dataset has 768 records and 9 columns
+** Objective: **
+
+** Develop a predictive model using diagnostic measurements from the dataset to determine whether a patient is likely to have diabetes **.
 
 Project Goals/Objectives:
 
@@ -15,5 +18,8 @@ The prediction will be based on various medical predictor variables such as the 
 * .DiabetesPedigreeFunction
 * Age=Age(years)
 * Outcome=1 indicates presence of diabetes 0 indicates absense
+INSIGHTS
+The most influential factor for predicting diabetes is the 'Glucose' level.
+'BMI' and 'Age' are also critical factors that significantly contribute to predictions.
 
 
